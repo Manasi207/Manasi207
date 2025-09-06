@@ -83,18 +83,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Manasi207/Manasi207/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/manasi-s-36a638233/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Manasi207/Manasi207/output/snake.svg" alt="Snake animation" />
 
 ###
