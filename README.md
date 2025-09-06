@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋,</h1>
 
-###
+
 
 <h2 align="center">I'm Manasi Sabale.</h2>
 
@@ -8,7 +8,7 @@
 
 <h1 align="center">💫About Me</h1>
 
-###
+
 
 <h3 align="center">📚 🧑‍💻I'm currently B.Tech-Computer Engg. Student 🧑‍🎓<br>🧑‍💻 Developer | UX Design Enthusiast | Problem Solver 🎯💫</h3>
 
@@ -16,7 +16,7 @@
 
 <h1 align="center">🎯🧑‍💻 Familiar Techstack</h1>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
