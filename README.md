@@ -2,19 +2,19 @@
 
 ###
 
-<h3 align="center">My name is Manasi.</h3>
+<h2 align="center">I'm Manasi Sabale.</h2>
 
 ###
 
-<h2 align="center">💫About Me</h2>
+<h1 align="center">💫About Me</h1>
 
 ###
 
-<h5 align="center">📚 🧑‍💻I'm currently B.Tech-Computer Engg. Student 🧑‍🎓<br>🧑‍💻 Developer | UX Design Enthusiast | Problem Solver 🎯💫</h5>
+<h3 align="center">📚 🧑‍💻I'm currently B.Tech-Computer Engg. Student 🧑‍🎓<br>🧑‍💻 Developer | UX Design Enthusiast | Problem Solver 🎯💫</h3>
 
 ###
 
-<h2 align="left">🎯🧑‍💻 Familiar Techstack</h2>
+<h1 align="center">🎯🧑‍💻 Familiar Techstack</h1>
 
 ###
 
@@ -92,5 +92,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Manasi207/Manasi207/output/snake.svg" alt="Snake animation" />
 
 ###
